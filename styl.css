@@ -1,9 +1,17 @@
+* {
+	box-sizing: border-box;
+
+}
+
+
+
 h1 {
 	color: blue;
 
 
 }
 #nav ul {
+	float: left;
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -19,5 +27,8 @@ h1 {
 #nav li a:hover {
 	background-color: #555;
 	color: white;
+}
+#main{
+	float: right;
 }
 	
