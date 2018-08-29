@@ -31,7 +31,7 @@ h1 {
 #main{
 	float: right;
 	width: 85%;
-	margin-left: 25px;
+	/*margin-left: 25px;*/
 }
 
 /*edia only screen and(max-width: 600px)
