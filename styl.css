@@ -33,7 +33,7 @@ h1 {
 	width: 85%;
 	margin-left: 25px;
 }
-@media screen and (max-width: 600px) {
+@media screen and (min-width: : 600px) {
 	#main {
 		float: none;
 	}
